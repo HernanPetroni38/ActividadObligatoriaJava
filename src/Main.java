@@ -25,7 +25,7 @@ public class Main {
         System.out.print("Ingrese el sistema operativo que utiliza habitualmente\n");
         String sistop = lectura.next();
 
-        System.out.println("Usted ingresó: " + nombre + " " + lastname + " " +age+ " " +hobbie+ " " +edcod+" " + sistop);
+        System.out.println("Usted ingresó los siguientes datos: \n" + nombre + "\n" + lastname + "\n" +age+ "\n" +hobbie+ "\n" +edcod+"\n" + sistop);
 
     }
 }
